@@ -19,6 +19,6 @@ Ik zit op het Mediacollege Amsterdam en daar doe ik een opleiding media developm
 ### 🤝🏻 &nbsp;Links
 
 <p align="center">
-<a href="https://www.linkedin.com/in/teun-van-der-ploeg/"><img src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a>
-<a href="mailto:teun@vanderploeg.net"><img src="https://img.icons8.com/dusk/64/000000/apple-mail.png"/></a>
+<a href="https://www.linkedin.com/in/teun-van-der-ploeg/"><img height="300" src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a>
+<a href="mailto:teun@vanderploeg.net"><img height="300" src="https://img.icons8.com/dusk/64/000000/apple-mail.png"/></a>
 </p>
