@@ -4,7 +4,7 @@
 
 Ik zit op het Mediacollege Amsterdam en daar doe ik een opleiding media development. Mijn goal van deze opleiding is om zo veel mogelijk te leren zo dat als ik aan het werk ga genoeg kennis heb van het vak. Mijn specialiteit is de backend van de website programmeren en vind het ook nog eens leuk om te doen. Ik kan goed samen werken in een team en kan goed het overzicht houden als het druk word. De programmeertalen die ik nu leer zijn html, css, javascript, php en sql. In me vrije tijd vind ik het leuk om te leren over cyber security en vulnerability testing.
 
-📄 &nbsp;Mijn [Portfolio](https://www.teun.ninja)
+📄 &nbsp;Mijn [Portfolio](https://www.teunvanderploeg.nl)
 
 
 ### 🛠 &nbsp;Mijn skills
