@@ -21,3 +21,7 @@ Ik zit op het Mediacollege Amsterdam en daar doe ik een opleiding media developm
 <p align="left">
 <a href="https://www.linkedin.com/in/teun-van-der-ploeg/"><img height="50" src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a>
 </p>
+
+<a href="https://github.com/teunvanderploeg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teunvanderploeg&show_icons=true" />
+</a>
