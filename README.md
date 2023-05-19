@@ -2,7 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;Over Mij
 
-Ik zit op het Mediacollege Amsterdam en daar doe ik een opleiding media development. Mijn goal van deze opleiding is om zo veel mogelijk te leren zo dat als ik aan het werk ga genoeg kennis heb van het vak. Mijn specialiteit is de backend van de website programmeren en vind het ook nog eens leuk om te doen. Ik kan goed samen werken in een team en kan goed het overzicht houden als het druk word. De programmeertalen die ik nu leer zijn html, css, javascript, php en sql. In me vrije tijd vind ik het leuk om te leren over cyber security.
+Ik ben een gedreven en leergierige professional in de ICT-sector. Momenteel studeer ik HBO-ICT aan de HvA, waar ik mijn kennis en vaardigheden op het gebied van web development, programmeertalen en projectmanagement verder ontwikkel. Mijn doel is om mijzelf continu te blijven verbeteren en uit te dagen, zodat ik de beste resultaten kan behalen.
+
+Naast mijn studie ben ik ook geïnteresseerd in cyber security en vulnerability testing. In mijn vrije tijd leer ik graag meer over deze onderwerpen en experimenteer ik met verschillende technologieën om mijn kennis te vergroten. Dit doe ik door bijvoorbeeld mee te doen aan CTF's.
 
 📄 &nbsp;Mijn [Portfolio](https://www.teunvanderploeg.nl)
 
