@@ -1,13 +1,10 @@
-## 👋 &nbsp;Hoi, ik ben Teun van der Ploeg
+## 👋 &nbsp;Hoi, ik ben Teun
 
 ### 👨🏻‍💻 &nbsp;Over Mij
 
-Ik ben een gedreven en leergierige professional in de ICT-sector. Momenteel studeer ik HBO-ICT aan de HvA, waar ik mijn kennis en vaardigheden op het gebied van web development, programmeertalen en projectmanagement verder ontwikkel. Mijn doel is om mijzelf continu te blijven verbeteren en uit te dagen, zodat ik de beste resultaten kan behalen.
-
-Naast mijn studie ben ik ook geïnteresseerd in cyber security en vulnerability testing. In mijn vrije tijd leer ik graag meer over deze onderwerpen en experimenteer ik met verschillende technologieën om mijn kennis te vergroten. Dit doe ik door bijvoorbeeld mee te doen aan CTF's.
+Ik ben een gedreven en leergierige professional in de ICT-sector. Momenteel studeer ik HBO-ICT aan de HvA, waar ik mijn kennis en vaardigheden op het gebied van web development, cybersecurity en projectmanagement verder ontwikkel. In mijn vrije tijd leer ik graag meer over deze onderwerpen en experimenteer ik met verschillende technologieën om mijn kennis te vergroten. Dit doe ik door bijvoorbeeld mee te doen aan CTF's.
 
 📄 &nbsp;Mijn [Portfolio](https://www.teunvanderploeg.nl)
-
 
 ### 🛠 &nbsp;Mijn skills
 
