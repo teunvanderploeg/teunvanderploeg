@@ -4,7 +4,7 @@
 
 Ik ben een gedreven en leergierige professional in de ICT-sector. Momenteel studeer ik HBO-ICT aan de HvA, waar ik mijn kennis en vaardigheden op het gebied van web development, cybersecurity en projectmanagement verder ontwikkel. In mijn vrije tijd leer ik graag meer over deze onderwerpen en experimenteer ik met verschillende technologieën om mijn kennis te vergroten. Dit doe ik door bijvoorbeeld mee te doen aan CTF's.
 
-📄 &nbsp;Mijn [Portfolio](https://www.teunvanderploeg.nl)
+📄 &nbsp;Mijn [Portfolio](https://teunvanderploeg.nl)
 
 ### 🛠 &nbsp;Mijn skills
 
