@@ -26,7 +26,8 @@
   <img src="https://img.shields.io/github/followers/teunvanderploeg?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb" alt="GitHub followers" />
 </p>
 
-<table>
+<div align="center">
+<table align="center" width="90%">
   <tr>
     <td width="50%" valign="top">
       <h3><code>~/about</code></h3>
@@ -45,6 +46,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <h3 align="center">Arsenal</h3>
 <p align="center">
