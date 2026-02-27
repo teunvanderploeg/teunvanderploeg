@@ -1,26 +1,36 @@
-## 👋 &nbsp;Hoi, ik ben Teun
-
-### 👨🏻‍💻 &nbsp;Over Mij
-
-Ik ben een gedreven en leergierige professional in de ICT-sector. Momenteel studeer ik HBO-ICT aan de HvA, waar ik mijn kennis en vaardigheden op het gebied van web development, cybersecurity en projectmanagement verder ontwikkel. In mijn vrije tijd leer ik graag meer over deze onderwerpen en experimenteer ik met verschillende technologieën om mijn kennis te vergroten. Dit doe ik door bijvoorbeeld mee te doen aan CTF's.
-
-📄 &nbsp;Mijn [Portfolio](https://teunvanderploeg.nl)
-
-### 🛠 &nbsp;Mijn skills
-
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)&nbsp;
-
-### 🤝🏻 &nbsp;Links
-
-<p align="left">
-<a href="https://www.linkedin.com/in/teun-van-der-ploeg/"><img height="50" src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a>
+<h1 align="center">Hi, I'm Teun van der Ploeg</h1>
+<p align="center"><strong>Building secure web apps and cybersecurity tooling • ICT student at HvA • CTF player</strong></p>
+<p align="center">
+  ICT student at HvA, focused on web development and cybersecurity.
+  <br />
+  I learn by building projects, creating cybersecurity tools, and competing in CTF challenges.
 </p>
 
-<a href="https://github.com/teunvanderploeg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teunvanderploeg&show_icons=true" />
-</a>
+<p align="center">
+  <a href="https://teunvanderploeg.nl">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/teun-van-der-ploeg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00add8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## GitHub Stats
+<p>
+  <img src="https://streak-stats.demolab.com?user=teunvanderploeg&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Teun's GitHub streak stats" />
+</p>
+
+## Top Languages
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=teunvanderploeg&layout=compact&hide_border=true&title_color=0f172a" alt="Top languages graph" />
+</p>
