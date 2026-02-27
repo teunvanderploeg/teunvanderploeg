@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1800&color=B91C1C&center=true&vCenter=true&width=760&height=34&lines=%3E+Ship+fast%2C+secure+faster;%3E+Offense+informs+defense;%3E+Build+tools+that+defenders+actually+use" alt="Rotating security motto banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1800&color=B91C1C&center=true&vCenter=true&width=760&height=34&lines=%3E+Ship+fast%2C+secure+faster;%3E+Offense+informs+defense;%3E+Build+tools+that+red+teams+actually+use" alt="Rotating security motto banner" />
 </p>
 
 <h3 align="center">Contribution Snake</h3>
