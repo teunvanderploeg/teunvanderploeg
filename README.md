@@ -29,7 +29,7 @@
 <div align="center">
 <table align="center" width="90%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h3><code>~/about</code></h3>
       <ul>
         <li>Founder of CyberPloeg</li>
@@ -38,7 +38,7 @@
         <li>Learns by building real tools and playing CTFs</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h3><code>~/mission</code></h3>
       <pre><code>[+] Build secure web apps
 [+] Create practical cyber tooling
